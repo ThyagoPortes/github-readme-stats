@@ -462,6 +462,12 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+    Anakiwa: {
+  title_color: "00ffff",
+    icon_color: "00ffff",
+    text_color: "fff",
+    bg_color: "00ffff",
+  },
 };
 
 export default themes;
